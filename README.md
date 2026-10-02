@@ -12,8 +12,11 @@ Some implementation details are inspired by code in this repo: <https://github.c
 **2. Datasets:**
 
 - Training content dataset: Kaggle's COCO WikiArt dataset
+  <https://drive.google.com/drive/folders/1tyDRZDmZbuoL9hppPQRkVZdzZjjoZDs9?usp=drive_link>
 - Validation/testing content dataset: ImageNet dataset
+  <https://drive.google.com/drive/folders/1jCyjFUEg220h9YM9PswtRzDPNQbyoK3G?usp=drive_link>
 - Style: I used a self-curated film-based style dataset, where each cinematic style associated with one director is captured through a collection of cinematic frames from that director's filmography. Cinematic frames are obtained from [FilmGrab] (https://film-grab.com/)
+  <https://drive.google.com/drive/folders/1PQytRyxjZ6o07WoI1zRaiXSY-BvHBf7G?usp=drive_link> 
 
 **3. Project structure:**
 
